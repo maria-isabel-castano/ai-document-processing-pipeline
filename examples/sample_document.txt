@@ -1,0 +1,4 @@
+SYNTHETIC EXAMPLE
+Invoice from Northwind Supply.
+Reference: INV-1007
+Total due: 1240.50
